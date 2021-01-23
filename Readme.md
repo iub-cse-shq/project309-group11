@@ -1,1 +1,1 @@
-Project details and documentation goes here
+Project details and documentation :
