@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yamin029/Assignment1/issues"
+    "url": "https://github.com/iub-cse-shq/assignment1-suhamou/issues"
   },
   "homepage": "https://github.com/iub-cse-shq/assignment1-suhamou/blob/main/README.md",
   "dependencies": {
@@ -25,3 +25,4 @@
     "nodemon": "^2.0.1"
   }
 }
+
