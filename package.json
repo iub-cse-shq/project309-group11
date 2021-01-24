@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yamin029/Assignment1.git"
+    "url": "https://github.com/iub-cse-shq/assignment1-suhamou"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yamin029/Assignment1/issues"
   },
-  "homepage": "https://github.com/yamin029/Assignment1#readme",
+  "homepage": "https://github.com/iub-cse-shq/assignment1-suhamou/blob/main/README.md",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
