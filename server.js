@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended:true}))
 
 var mongo = require('mongodb')
 var mongoose = require('mongoose')
-var db, uri = "mongodb+srv://yaminkhan017:@Yamin287232@cluster0-95fpq.mongodb.net/orbittech?retryWrites=true&w=majority"
+var db, uri = "mongodb+srv://suhatonmoy:<password>@suhatonmoy.wujis.mongodb.net/<dbname>?retryWrites=true&w=majority"
 mongoose.connect(uri, 
       {useNewUrlParser:true, useUnifiedTopology: true })
       mongoose.connection.on('connected', function(){
